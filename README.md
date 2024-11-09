@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AviShahCode
+- 👀 I’m interested in software development in Python and C/C++
+- 🌱 I’m currently a student in IIT Madras & learning C++ as a part of programming club
