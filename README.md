@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @AviShahCode
-- 👀 I’m interested in software development in Python and C/C++
-- 🌱 I’m currently a student in IIT Madras & learning C++ as a part of programming club
+## 👋 Hi, I’m @AviShahCode
+- 🏫 I'm an electronics/electrical engineering student @ IIT Madras
+- 👀 I’m interested in software development in Python, Rust and C++
+- LinkedIn: [Avi Shah](https://www.linkedin.com/in/avi-shah-code/)
